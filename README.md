@@ -12,3 +12,4 @@ There's JavaScript repo that contains code base from cources I did. This exists,
 
 | \# | Source | Year | Title | Notes |
 | :---: | :---: | :---: | :--- | :--- |
+| 001 | Udemy | 2023 | React + Redux - Профессиональная Разработка | `ud-pro-react-redux`, ECMAScript 2019
